@@ -27,7 +27,7 @@ function limpar() {
 
 
 function limpar() {
-    let totalGeral 0; =
+    let totalGeral = 0; 
     document.getElementById('lista-produtos').innerHTML = '';
     document.getElementById('valor-total').textContent = 'R$ 0';
 
